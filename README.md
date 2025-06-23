@@ -17,6 +17,8 @@ This project is a machine learning-based application that can predict whether a 
 4. **Saving:** Stores the model, vectorizer, and model info as `.pkl` files.
 5. **Prediction:** In the app, the model predicts using TF-IDF features.
 
+### Ps: This app is not deployed. To test the app locally, run train-model.py first to train and save the models, then use st.py to launch the Streamlit interface.
+
 ## 🛠️ Installation
 
 ```bash
