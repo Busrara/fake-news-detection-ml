@@ -2,6 +2,8 @@
 
 This project is a machine learning-based application that can predict whether a news article is **real** or **fake**. It has both a training pipeline and a user-friendly interface built with **Streamlit**.
 
+Link for the datasets: https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_
+
 ## Features
 
 - Trains and compares multiple models: **Naive Bayes**, **Logistic Regression**, and **Random Forest**.
